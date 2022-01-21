@@ -1,4 +1,5 @@
 import random
+
 pedra = str.upper('Pedra')
 papel = str.upper('Papel')
 tesoura = str.upper('Tesoura')
